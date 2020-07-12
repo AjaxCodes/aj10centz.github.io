@@ -1,2 +1,44 @@
 styles.css
+<body>
+	<h3>  EXAMPLE CONTENT </h3>
+	<br>
+	<h4>	MORE EXAMPLE CONTENT	</h4>
+	<br>
+	<h5></h5>
+	<br>
+
+    h3	{
+		padding: 50px;
+		margin: 50px;
+		border-width; 50px;
+		border-style: solid;
+		border-color: green;
+}
+h4	{
+		border-width; 5px;
+		border-style: solid;
+		border-color: green;
+}
+
+
+h4, h1, p	{
+		border-width; 5px;
+		border-style: solid;
+		border-color: green;
+}
+
+
+<img>		</img>		IMAGES
+
+<body>
+	<h1>	IDENTIFY THE PICURE IN WORDS	ALWAYS MAKE AIR TIGHT   </h1>
+	<img src=“	IMAGES / PICTURE NAME . PNG 	”> alt=“	WHATEVER IS IN H1		”> 
+	<h5>  TEXT ABOUT THE PICTURE </h5>
+	
+</body>
+
+
+
+
+</body>
 
