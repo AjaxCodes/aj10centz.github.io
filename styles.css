@@ -1,281 +1,44 @@
 styles.css
-<body>
-<html>		
-	<head> 
-		<link rel= “stylesheet” type=“text/css	” href=“styles/styles.css”>
-
-	</head>
-
-
-
-	<body>
-		<p>	TEXT HERE		</p>
-	</body>
-</html>
-
-    <h3>  EXAMPLE CONTENT </h3>
-	<br>
-	<h4>	MORE EXAMPLE CONTENT	</h4>
-	<br>
-	<h5></h5>
-    <br>
-    
-
-
-
-    <style>
-		[	STYLE HERE  - AIRTIGHT	]		
-</style>
-<body>
-	<p style=“background-color:	RED	”>	ITEM ATTACHED </p>
-</body>
-<body>
-	<p style=“background-color:	RED	”>	ITEM ATTACHED </p>
-</body>
-<body>
-	<p style=“background-color:	RED	”>	ITEM ATTACHED </p>
-</body>
-<body>
-	<p style=“background-color:	RED	”>	ITEM ATTACHED </p>
-</body>
-<body>
-	<p style=“background-color:	RED	”>	ITEM ATTACHED </p>
-</body>
-<body>
-	<p style=“background-color:	RED	”>	ITEM ATTACHED </p>
-</body>
-
-
-
-<head>	
-	<style>
-			p{
-				background-color: RED	;
-			}
-	</style>
-</head>
-<head>	
-	<style>
-			p{
-				background-color: RED	;
-			}
-	</style>
-</head>
-<head>	
-	<style>
-			p{
-				background-color: RED	;
-			}
-	</style>
-</head>
-<head>	
-	<style>
-			p{
-				background-color: RED	;
-			}
-	</style>
-</head>
-<head>	
-	<style>
-			p{
-				background-color: RED	;
-			}
-	</style>
-</head>
-
-<head>	
-	<style>
-			p{
-				background-color: RED	;
-			}
-	</style>
-</head>
-
-<head>	
-	<style>
-			p{
-				background-color: RED	;
-			}
-	</style>
-</head>
-
-<head>	
-	<style>
-			p{
-				background-color: RED	;
-			}
-	</style>
-</head>
+<css>
+{
 <head>
-	<link rel=“	STYLESHEET	” type=“	TEXT/CSS           ” href=“   STYLES/STYLES.CSS.      ”>
-</head>
-<head>
-	<link rel=“	STYLESHEET	” type=“	TEXT/CSS           ” href=“   STYLES/STYLES.CSS.      ”>
-</head>
-<head>
-	<link rel=“	STYLESHEET	” type=“	TEXT/CSS           ” href=“   STYLES/STYLES.CSS.      ”>
-</head>
-<head>
-	<link rel=“	STYLESHEET	” type=“	TEXT/CSS           ” href=“   STYLES/STYLES.CSS.      ”>
-</head>
-<head>
-	<link rel=“	STYLESHEET	” type=“	TEXT/CSS           ” href=“   STYLES/STYLES.CSS.      ”>
-</head>
-<head>
-	<link rel=“	STYLESHEET	” type=“	TEXT/CSS           ” href=“   STYLES/STYLES.CSS.      ”>
-</head>
-<head>
-	<link rel=“	STYLESHEET	” type=“	TEXT/CSS           ” href=“   STYLES/STYLES.CSS.      ”>
-</head>
-
-
-
-
-P{
-	background-color: GREEN;
-	color:	YELLOW;
-}
-P{
-	background-color: GREEN;
-	color:	YELLOW;
-}
-P{
-	background-color: GREEN;
-	color:	YELLOW;
-}
-P{
-	background-color: GREEN;
-	color:	YELLOW;
-}
-P{
-	background-color: GREEN;
-	color:	YELLOW;
-}
-
-
-
-
-
-
-
-
-<script>
-		[	TEXT HERE - AIRTIGHT	]		
-</script>
-
-<link rel= “stylesheet” type=“text/css	” href=“styles/styles.css”>
-
-
-
-
-
-
-<script src=:"script.js“> 					</script>
-
-
-
-
-
-
-
-
+<title>   Aj Steinbacher's Portfolio Site  </title>
+<meta name = "AJ Steinbacher Portfolio Site"  content = "This is the life works of AJ Steinbacher" >
+<meta name = "Portfolio, Aj_Steinbacher, AJ10centz " >
+<meta name = "Aj Steinbacher" content = "Aj">
+body 
+  
+  h1 {
+    color: black;
+    text-align: center;
+  }
+  
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
 
     h3	{
-		padding: 50px;
-		margin: 50px;
-		border-width; 50px;
-		border-style: solid;
-		border-color: green;
-}
-h4	{
-		border-width; 5px;
-		border-style: solid;
-		border-color: green;
+		padding: 500px;
+		margin: 100px;
+	;
 }
 
 
-h4, h1, p	{
-		border-width; 5px;
-		border-style: solid;
-		border-color: green;
-}
-
-
-<img>		</img>		IMAGES
-
-<body>
-	<h1>	IDENTIFY THE PICURE IN WORDS	ALWAYS MAKE AIR TIGHT   </h1>
-	<img src=“	IMAGES / PICTURE NAME . PNG 	”> alt=“	WHATEVER IS IN H1		”> 
-	<h5>  TEXT ABOUT THE PICTURE </h5>
-	
-</body>
-
-<img>		</img>		IMAGES
-
-<body>
-	<h1>	IDENTIFY THE PICURE IN WORDS	ALWAYS MAKE AIR TIGHT   </h1>
-	<img src=“	IMAGES / PICTURE NAME . PNG 	”> alt=“	WHATEVER IS IN H1		”> 
-	<h5>  TEXT ABOUT THE PICTURE </h5>
-	
-</body>
-<img>		</img>		IMAGES
-
-<body>
-	<h1>	IDENTIFY THE PICURE IN WORDS	ALWAYS MAKE AIR TIGHT   </h1>
-	<img src=“	IMAGES / PICTURE NAME . PNG 	”> alt=“	WHATEVER IS IN H1		”> 
-	<h5>  TEXT ABOUT THE PICTURE </h5>
-	
-</body>
-<img>		</img>		IMAGES
-
-<body>
-	<h1>	IDENTIFY THE PICURE IN WORDS	ALWAYS MAKE AIR TIGHT   </h1>
-	<img src=“	IMAGES / PICTURE NAME . PNG 	”> alt=“	WHATEVER IS IN H1		”> 
-	<h5>  TEXT ABOUT THE PICTURE </h5>
-	
-</body>
-<img>		</img>		IMAGES
-
-<body>
-	<h1>	IDENTIFY THE PICURE IN WORDS	ALWAYS MAKE AIR TIGHT   </h1>
-	<img src=“	IMAGES / PICTURE NAME . PNG 	”> alt=“	WHATEVER IS IN H1		”> 
-	<h5>  TEXT ABOUT THE PICTURE </h5>
-	
-</body>
-<img>		</img>		IMAGES
-
-<body>
-	<h1>	IDENTIFY THE PICURE IN WORDS	ALWAYS MAKE AIR TIGHT   </h1>
-	<img src=“	IMAGES / PICTURE NAME . PNG 	”> alt=“	WHATEVER IS IN H1		”> 
-	<h5>  TEXT ABOUT THE PICTURE </h5>
-	
-</body>
-<img>		</img>		IMAGES
-
-<body>
-	<h1>	IDENTIFY THE PICURE IN WORDS	ALWAYS MAKE AIR TIGHT   </h1>
-	<img src=“	IMAGES / PICTURE NAME . PNG 	”> alt=“	WHATEVER IS IN H1		”> 
-	<h5>  TEXT ABOUT THE PICTURE </h5>
-	
-</body>
-<img>		</img>		IMAGES
-
-<body>
-	<h1>	IDENTIFY THE PICURE IN WORDS	ALWAYS MAKE AIR TIGHT   </h1>
-	<img src=“	IMAGES / PICTURE NAME . PNG 	”> alt=“	WHATEVER IS IN H1		”> 
-	<h5>  TEXT ABOUT THE PICTURE </h5>
-	
-</body>
-<img>		</img>		IMAGES
-
-<body>
-	<h1>	IDENTIFY THE PICURE IN WORDS	ALWAYS MAKE AIR TIGHT   </h1>
-	<img src=“	IMAGES / PICTURE NAME . PNG 	”> alt=“	WHATEVER IS IN H1		”> 
-	<h5>  TEXT ABOUT THE PICTURE </h5>
-	
-</body>
 
 
 
-</body>
+
+
+
+projects
+
+
+
+
+
+
+
+
+
 
